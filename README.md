@@ -1,4 +1,4 @@
-# 🚀 HireTrack — Smart Job Tracking & Recruitment Platform
+
 # ✦ HireTrack
 
 <p align="center">
