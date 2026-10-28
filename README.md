@@ -1,5 +1,23 @@
 # 🚀 HireTrack — Smart Job Tracking & Recruitment Platform
+# ✦ HireTrack
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=2500&pause=800&color=EC4899&center=true&vCenter=true&width=700&height=70&lines=HIRETRACK+%E2%9C%A6;Track.+Organize.+Get+Hired.;Your+Career%2C+Your+Journey." alt="HireTrack animated header" />
+</p>
+
+<p align="center">
+  <i>✧ Your all-in-one workspace for smarter job tracking and recruitment ✧</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack-MERN-EC4899?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI-Powered-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-In_Development-F472B6?style=flat-square" />
+</p>
+
+---
+
+**HireTrack** is a full-stack job tracking platform that simplifies application management, resume analysis, and hiring workflows through an intuitive, modern interface.
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=EC4899&center=true&vCenter=true&width=650&lines=Track+Applications+Smarter;Simplify+Recruitment+Workflows;Your+Career%2C+Organized." alt="HireTrack animated heading" />
 </p>
